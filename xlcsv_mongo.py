@@ -83,4 +83,3 @@ class CsvXlToMongo:
             print('TASK COMPLETE')
         if self.__error == 1:
             print('TASK INCOMPLETE')
-
